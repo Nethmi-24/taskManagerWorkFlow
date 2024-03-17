@@ -242,4 +242,3 @@ test("submit with wrong credentials", async () => {
   expect(errorMessage).toBeInTheDocument();
 })
 
-//to find pull and merge
